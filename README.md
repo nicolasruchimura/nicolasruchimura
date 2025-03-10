@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on [a Marketing App](https://github.com/nicolasruchimura/marketingApp)
 
-- 🌱 I’m currently learning **Network Systems and Backend**
+- 🌱 I’m currently learning **Network Systems, Java and Backend**
 
-- 🤝 I’m looking for help with **my availability and teamwork**
+- 🤝 I’m always trying to **improve my knowlodge**
 
 - 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/portfolio/](https://nicolasruchimura.github.io/portfolio/)
 
-- 📫 How to reach me **nicolasruchimura@gmail.com**
+- 📫 How to reach me?~**nicolasruchimura@gmail.com**
 
-- ⚡ Fun fact **I like sports and gaming :)**
+- ⚡ Fun fact: **I like sports and gaming :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
