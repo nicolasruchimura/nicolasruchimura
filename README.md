@@ -8,7 +8,7 @@
 
 - 🤝 I’m always trying to **improve my knowlodge**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://nicolasruchimura.github.io/site_nicolas/) 
+- 👨‍💻 All of my projects are available at my [Portfolio](https://nicolasruchimura.github.io/site_nicolas/) 
 
 - 📫 How to reach me? ~ **nicolasruchimura@gmail.com**
 
