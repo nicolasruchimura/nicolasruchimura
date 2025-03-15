@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on [a Marketing App](https://github.com/nicolasruchimura/marketingApp)
 
-- 🌱 I’m currently learning **Network Systems, Java and Backend**
+- 🌱 I’m currently learning **Network Systems and Java**
 
 - 🤝 I’m always trying to **improve my knowlodge**
 
-- 👨‍💻 All of my projects are available at PORTFOLIO -> [https://nicolasruchimura.github.io/site_nicolas/](https://nicolasruchimura.github.io/site_nicolas/) 
+- 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/site_nicolas/](https://nicolasruchimura.github.io/site_nicolas/) 
 
-- 📫 How to reach me?~**nicolasruchimura@gmail.com**
+- 📫 How to reach me? ~ **nicolasruchimura@gmail.com**
 
 - ⚡ Fun fact: **I like sports and gaming :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolasuchimura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas uchimura" height="30" width="40" /></a>
 </p>
