@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Uchimura</h1>
 <h3 align="center">Student in Informatics Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasuchimura" alt="nicolasuchimura" /></a> </p>
-
 - 🔭 I’m currently working on [a Personal Project](https://github.com/nicolasruchimura/ALSTA)
 
 - 🌱 I’m currently learning **Network Systems and Java**
