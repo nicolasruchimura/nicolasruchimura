@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Personal Project](https://github.com/nicolasruchimura/ALSTA)
 
-- 🌱 I’m currently learning **Network Systems and Java**
+- 🌱 I’m currently learning **Network Systems**
 
 - 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/portfolio/](https://nicolasruchimura.github.io/portfolio/)
 
