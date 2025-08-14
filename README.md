@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolas Uchimura</h1>
 <h3 align="center">Student in Informatics Engineering</h3>
 
-- 🔭 I’m currently working on [a Personal Project](https://github.com/nicolasruchimura/ALSTA)
-
 - 🌱 I’m currently learning **Network Systems** / **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/portfolio/](https://nicolasruchimura.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/portfolio/]( https://nicolasruchimura.github.io/ )
 
 - 📫 How to reach me **nicolasruchimura@gmail.com**
 
